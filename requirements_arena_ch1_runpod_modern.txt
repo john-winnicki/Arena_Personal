@@ -1,0 +1,13 @@
+# ARENA Chapter 1 deps (RunPod system PyTorch) - modern torch (>=2.1)
+# Excludes torch/torchvision/torchaudio on purpose.
+transformer-lens==2.2.2
+transformers==4.43.4
+datasets==2.20.0
+einops==0.8.0
+jaxtyping==0.2.36
+rich==13.9.4
+wandb==0.17.9
+tqdm==4.66.6
+plotly==5.24.1
+ipykernel==6.29.5
+numpy==1.26.4
