@@ -12,6 +12,8 @@ source ~/miniconda3/bin/activate
 
 conda init --all
 
+source ~/miniconda3/bin/activate
+
 git clone https://github.com/callummcdougall/ARENA_3.0.git
 
 ARENA_3.0/install.sh
