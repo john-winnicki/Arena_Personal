@@ -1,4 +1,4 @@
-# RunPod + Tailscale: The Normal, Low-Friction Setup
+# RunPod + Tailscale Setup
 
 This guide documents the **standard setup most experienced RunPod users converge to** for a smooth development workflow.
 
