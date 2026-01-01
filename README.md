@@ -1,4 +1,4 @@
-# Arena_Personal
+# Arena_Personal (this readme is outdated probably)
 A repo to house my personal code for the arena material. 
 
 ## Install Arena material and required packages.
